@@ -1,0 +1,19 @@
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\bin\Debug\sayaç.exe.config
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\bin\Debug\sayaç.exe
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\bin\Debug\sayaç.pdb
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.Form1.resources
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.exe
+C:\Users\Dell\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\bin\Debug\sayaç.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\bin\Debug\sayaç.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\bin\Debug\sayaç.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 4\sayaç\sayaç\obj\Debug\sayaç.pdb
